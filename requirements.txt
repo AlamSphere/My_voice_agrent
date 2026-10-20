@@ -1,0 +1,13 @@
+# Core ElevenLabs & Audio Dependencies
+elevenlabs>=1.0.0
+websockets>=11.0.3
+requests>=2.31.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Web Dashboard & Control Center
+streamlit>=1.32.0
+
+# Utility Libraries
+numpy>=1.24.0
